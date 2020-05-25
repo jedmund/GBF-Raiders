@@ -43,7 +43,6 @@
 		"gulp-uglify": "^3.0.2",
 		"gulp-util": "^3.0.8",
 		"gulp-watch": "^5.0.1",
-		"handle-thing": "github:ypinskiy/handle-thing",
 		"helmet": "^3.21.2",
 		"https": "^1.0.0",
 		"less": "^2.7.3",
