@@ -1510,4 +1510,12 @@
 	"image": "/assets/raids/BattleRaid_The_Peacemaker's_Wings_Impossible.jpg",
 	"category": "Impossible",
 	"element": "Light"
+},
+{
+	"english": "Lvl 200 Lindwurm",
+	"japanese": "Lv200 リンドヴルム",
+	"room": "lvl200lindwurm",
+	"image": "/assets/raids/BattleRaid_Lindwurm_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Light"
 }]
