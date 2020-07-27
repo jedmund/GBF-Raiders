@@ -1518,4 +1518,60 @@
 	"image": "/assets/raids/BattleRaid_Lindwurm_Impossible.png",
 	"category": "Impossible",
 	"element": "Light"
+},
+{
+	"english": "Lvl 150 Phronesis",
+	"japanese": "Lv150 フロネシス",
+	"room": "lvl150phronesis",
+	"image": "/assets/raids/BattleRaid_Phronesis_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 200 Wilnas",
+	"japanese": "Lv200 ウィルナス",
+	"room": "lvl200wilnas",
+	"image": "/assets/raids/BattleRaid_Wilnas_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Fire"
+},
+{
+	"english": "Lvl 200 Wamdus",
+	"japanese": "Lv200 ワムデュス",
+	"room": "lvl200wamdus",
+	"image": "/assets/raids/BattleRaid_Wamdus_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Water"
+},
+{
+	"english": "Lvl 200 Ewiyar",
+	"japanese": "Lv200 イーウィヤ",
+	"room": "lvl200ewiyar",
+	"image": "/assets/raids/BattleRaid_Ewiyar_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Wind"
+},
+{
+	"english": "Lvl 200 Galleon",
+	"japanese": "Lv200 ガレヲン",
+	"room": "lvl200galleon",
+	"image": "/assets/raids/BattleRaid_Galleon_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Earth"
+},
+{
+	"english": "Lvl 200 Fediel",
+	"japanese": "Lv200 フェディエル",
+	"room": "lvl200fediel",
+	"image": "/assets/raids/BattleRaid_Fediel_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Dark"
+},
+{
+	"english": "Lvl 200 Lu Woh",
+	"japanese": "Lv200 ル・オー",
+	"room": "lvl200luwoh",
+	"image": "/assets/raids/BattleRaid_Lu_Woh_Impossible.jpg",
+	"category": "Impossible",
+	"element": "Light"
 }]
