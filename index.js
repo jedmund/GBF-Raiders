@@ -323,7 +323,7 @@ if ( cluster.isMaster ) {
 			io = require( 'socket.io' ).listen( sslServer );
 		} else {
 			let server = require( 'http' ).createServer();
-			server.listen( 8100 );
+			server.listen( 8080 );
 			io = require( 'socket.io' ).listen( server );
 		}
 		io.sockets.on( 'connection', function ( socket ) {
@@ -416,6 +416,5 @@ if ( cluster.isMaster ) {
 			localStats.shift();
 		}
 	} );
-	const PORT = process.env.PORT || 80;
-	require( 'http' ).createServer( app ).listen( PORT );
+	require( 'http' ).createServer( app ).listen( 80 );
 }
