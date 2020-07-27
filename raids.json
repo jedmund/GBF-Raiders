@@ -1507,7 +1507,7 @@
 	"english": "Lvl 200 Grand Order",
 	"japanese": "Lv200 ジ・オーダー・グランデ",
 	"room": "lvl200grandorder",
-	"image": "/assets/raids/BattleRaid_The_Peacemaker's_Wings_Impossible.jpg",
+	"image": "/assets/raids/BattleRaid_The_Peacemaker's_Wings_Impossible.png",
 	"category": "Impossible",
 	"element": "Light"
 },
@@ -1515,7 +1515,7 @@
 	"english": "Lvl 200 Lindwurm",
 	"japanese": "Lv200 リンドヴルム",
 	"room": "lvl200lindwurm",
-	"image": "/assets/raids/BattleRaid_Lindwurm_Impossible.jpg",
+	"image": "/assets/raids/BattleRaid_Lindwurm_Impossible.png",
 	"category": "Impossible",
 	"element": "Light"
 }]
