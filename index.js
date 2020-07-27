@@ -322,9 +322,8 @@ if ( cluster.isMaster ) {
 			sslServer.listen( 8080 );
 			io = require( 'socket.io' ).listen( sslServer );
 		} else {
-			let server = require( 'http' ).createServer();
-			const PORT = process.env.PORT || 8080;
-			server.listen( PORT );
+			let server = require( 'http' ).createServer({});
+			server.listen( 8080 );
 			io = require( 'socket.io' ).listen( server );
 		}
 		io.sockets.on( 'connection', function ( socket ) {
