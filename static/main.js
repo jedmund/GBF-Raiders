@@ -137,7 +137,7 @@ window.addEventListener( 'load', function () {
 			console.log( `Error setting up controls: ${err.message}`, err );
 		}
 
-		socket = io.connect( ':8080/' );
+		socket = io.connect();
 		document.getElementById( "connection-status" ).classList.remove( "red" );
 		document.getElementById( "connection-status" ).classList.add( "green" );
 		document.getElementById( "connection-status-value" ).innerHTML = "UP";
