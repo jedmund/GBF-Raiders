@@ -416,5 +416,6 @@ if ( cluster.isMaster ) {
 			localStats.shift();
 		}
 	} );
-	require( 'http' ).createServer( app ).listen( 80 );
+	const PORT = process.env.PORT || 80;
+	require( 'http' ).createServer( app ).listen( PORT );
 }
